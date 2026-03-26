@@ -67,6 +67,7 @@ body {
 
 .abas-textos{
     background-color: var(--texto-fundo);
+    padding: 40px;
 }
 
 
@@ -80,5 +81,5 @@ body {
     }
      .botao:last-child {
         border-radius: 0 40px 0 0;
-    
+     }
 }
