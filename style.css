@@ -78,6 +78,12 @@ body {
     text-align: center;
 }
 
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--verde);
+    text-transform: uppercase;
+}
+
 .abas-textos{
     background-color: var(--texto-fundo);
     padding: 40px;
