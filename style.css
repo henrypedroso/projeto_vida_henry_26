@@ -73,6 +73,11 @@ body {
     display: none;
 }
 
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+
 .abas-textos{
     background-color: var(--texto-fundo);
     padding: 40px;
