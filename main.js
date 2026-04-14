@@ -27,7 +27,7 @@ const tempos = [tempoObjetivo1, tempoObjetivo2,tempoObjetivo3, tempoObjetivo4];
 
 
 for(let i = 0, i < contadores.length, i++ ){
-    contadores[0].textContent = calculaTempo(tempos[0]);
+    contadores[i].textContent = calculaTempo(tempos[i]);
 }
 
 function calculaTempo(tempoObjetivo){
