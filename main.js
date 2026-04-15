@@ -47,7 +47,7 @@ for(let i = 0; i < contadores.length; i++){
 }
 }
 
-function começaCronometro{
+function começaCronometro(){
 atualizaCronometro();
 setInterval(atualizaCronometro, 1000);
 }
