@@ -62,4 +62,4 @@ atualizaCronometro();
 setInterval(atualizaCronometro, 1000);
 }
 
-começaCronometro();
+//começaCronometro();
